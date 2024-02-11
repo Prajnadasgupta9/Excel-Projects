@@ -1,5 +1,5 @@
 ## Sales and Finance Analytics Project
-## Sales Report:
+**Sales Report**:
 
 ## Project Objectives:
 

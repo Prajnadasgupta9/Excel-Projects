@@ -22,6 +22,8 @@ Finance Report:
 Project Objectives:
 Create Profit and Loss (P&L) reports by Fiscal Year & Months. (https://github.com/Prajnadasgupta9/Excel-Projects/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
+(https://github.com/Prajnadasgupta9/Excel-Projects/blob/main/P%26L%20Statement%20by%20Months.pdf)
+
 
 Create Profit and Loss (P&L) reports by Markets.
 

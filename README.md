@@ -20,7 +20,9 @@ Determine effective customer discounts, facilitate negotiations with consumers, 
 Finance Report:
 
 Project Objectives:
-Create Profit and Loss (P&L) reports by Fiscal Year & Months.
+Create Profit and Loss (P&L) reports by Fiscal Year & Months. (https://github.com/Prajnadasgupta9/Excel-Projects/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
+
+
 Create Profit and Loss (P&L) reports by Markets.
 
 Purpose of Finance Analytics:

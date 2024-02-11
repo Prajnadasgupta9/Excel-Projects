@@ -1,8 +1,11 @@
 Sales and Finance Analytics Project
 Sales Report:
+
 Project Objectives:
+
 Develop a comprehensive customer performance report.
 Conduct a thorough comparison between market performance and sales targets.
+
 Purpose of Sales Analytics:
 Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -13,9 +16,11 @@ Role of Reports:
 Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 Finance Report:
+
 Project Objectives:
 Create Profit and Loss (P&L) reports by Fiscal Year & Months.
 Create Profit and Loss (P&L) reports by Markets.
+
 Purpose of Sales Analytics:
 Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
@@ -26,12 +31,14 @@ Role of Reports:
 Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
 
 Technical & Soft Skills:
+
  Proficiency in ETL methodology (Extract, Transform, Load).
  Skills to generate a date table using Power Query.
  Ability to derive fiscal months and quarters.
  Establishing data model relationships with Power Pivot.
  Proficiency in incorporating supplementary data into an existing data model.
  Utilizing DAX to create calculated columns.
+
 Soft Skills:
  Refined understanding of Sales & Finance Reports.
  Designing user-centric reports with empathy in mind.

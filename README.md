@@ -25,7 +25,9 @@ Create Profit and Loss (P&L) reports by Fiscal Year & Months. (https://github.co
 (https://github.com/Prajnadasgupta9/Excel-Projects/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
 
-Create Profit and Loss (P&L) reports by Markets.
+Create Profit and Loss (P&L) reports by Markets. (https://github.com/Prajnadasgupta9/Excel-Projects/blob/main/P%26L%20Statement%20by%20Markets.pdf)
+
+
 
 Purpose of Finance Analytics:
 Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.

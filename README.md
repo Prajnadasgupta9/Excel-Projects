@@ -3,7 +3,7 @@ Sales Report:
 
 Project Objectives:
 
-Develop a comprehensive customer performance report. 
+Develop a comprehensive customer performance report. (https://github.com/Prajnadasgupta9/Excel-Projects/blob/main/Customer%20Performance%20Report.pdf)
 Conduct a thorough comparison between market performance and sales targets.
 
 Purpose of Sales Analytics:
